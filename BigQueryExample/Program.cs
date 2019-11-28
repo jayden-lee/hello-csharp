@@ -8,8 +8,8 @@ namespace BigQueryExample
     {
         static void Main(string[] args)
         {
-            string jsonPath = "filePath";
-            string projectId = "projectId";
+            string jsonPath = "/Users/jayden-lee/Dev/Google/QueryPie DB Test-7d2bc445f64d.json";
+            string projectId = "querypie-db-test";
             BigQueryClient client = BigQueryClient.Create(projectId, CreateCredential(jsonPath));
             string query = @"SELECT
                 CONCAT(
