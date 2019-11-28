@@ -1,0 +1,46 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jayden-lee/Dev/Github/hello-csharp/BigQueryExample/BigQueryExample.csproj",
+    "projectName": "BigQueryExample",
+    "projectPath": "/Users/jayden-lee/Dev/Github/hello-csharp/BigQueryExample/BigQueryExample.csproj",
+    "outputPath": "/Users/jayden-lee/Dev/Github/hello-csharp/BigQueryExample/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Google.Cloud.BigQuery.V2": {
+          "target": "Package",
+          "version": "[1.4.0-beta07, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

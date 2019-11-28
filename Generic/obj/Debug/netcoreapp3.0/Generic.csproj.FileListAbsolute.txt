@@ -1,0 +1,11 @@
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/bin/Debug/netcoreapp3.0/Generic
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/bin/Debug/netcoreapp3.0/Generic.deps.json
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/bin/Debug/netcoreapp3.0/Generic.runtimeconfig.json
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/bin/Debug/netcoreapp3.0/Generic.runtimeconfig.dev.json
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/bin/Debug/netcoreapp3.0/Generic.dll
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/bin/Debug/netcoreapp3.0/Generic.pdb
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/obj/Debug/netcoreapp3.0/Generic.csprojAssemblyReference.cache
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/obj/Debug/netcoreapp3.0/Generic.AssemblyInfoInputs.cache
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/obj/Debug/netcoreapp3.0/Generic.AssemblyInfo.cs
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/obj/Debug/netcoreapp3.0/Generic.dll
+/Users/jayden-lee/Dev/Github/hello-csharp/Generic/obj/Debug/netcoreapp3.0/Generic.pdb
